@@ -1,1 +1,1 @@
-add_lunch_combo cm_f320-userdebug
+add_lunch_combo eos_f320-userdebug
